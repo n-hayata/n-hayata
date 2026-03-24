@@ -16,8 +16,6 @@ I'm **Hayata**, a software engineer based in Tokyo, building products and leadin
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 ---
 
