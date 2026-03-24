@@ -2,8 +2,7 @@
 
 I'm **Hayata**, a software engineer based in Tokyo, building products and leading teams. Currently focused on AI-driven development and cloud architecture.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com)
-[![X](https://img.shields.io/badge/-X-000?&logo=x&logoColor=fff)](https://x.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/%E9%9A%BC%E5%A4%AA-%E4%B8%AD%E5%B7%9D-0b193a15a/)
 
 ---
 
