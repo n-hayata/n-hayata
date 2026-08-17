@@ -44,8 +44,8 @@ I'm **Hayata Nakagawa**（中川隼太）— Director & CTO at [**TRIPLE THREE I
 
 We just launched the [**TRIPLE THREE Tech Blog**](https://zenn.dev/p/triplethree) — 少人数×AI前提: real stories from a team where everyone, engineer or not, runs their work on AI.
 
-<!-- BLOG-POST-LIST:START -->- [テックブログはじめます](https://zenn.dev/triplethree/articles/42a53e4f320e72) — 2026-08-17
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [テックブログはじめます](https://zenn.dev/triplethree/articles/42a53e4f320e72) — 2026-08-17<!-- BLOG-POST-LIST:END -->
 
 ---
 
