@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
-  <img alt="Hayata — 取締役CTO, TRIPLE THREE Inc.「外食の人財課題に本気で向き合う」— 9つのSaaSを、エンジニア4人＋デザイナー1人で。" src="assets/hero-light.svg" width="100%" />
+  <img alt="Hayata — 取締役CTO, TRIPLE THREE Inc.「外食の人財課題に本気で向き合う」— 外食産業のためのSaaS群を、少人数×AI前提でつくっています。" src="assets/hero-light.svg" width="100%" />
 </picture>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-- 🏢 [**株式会社トリプルスリー**](https://333-inc.com/) — 外食産業向けのHR-tech企業（2018年創業・約50名・導入100社超）
+- 🏢 [**株式会社トリプルスリー**](https://333-inc.com/) — 外食産業向けのHR-tech企業（2018年創業・導入100社超）
 - 🧭 担当領域: プロダクト開発／技術戦略／技術組織の設計／コーポレートIT
 - 🤖 職種を問わず全員がAIを使い倒す「少人数×AI前提」の組織づくりを実践中 — そのリアルは [Tech Blog](https://zenn.dev/p/triplethree) で発信しています
 
