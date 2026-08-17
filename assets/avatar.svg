@@ -1,15 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <defs>
-    <linearGradient id="g" x1="130" y1="150" x2="400" y2="380" gradientUnits="userSpaceOnUse">
+    <linearGradient id="amber" x1="150" y1="180" x2="380" y2="460" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#f7c948"/>
       <stop offset="1" stop-color="#f0862b"/>
     </linearGradient>
   </defs>
   <rect width="512" height="512" fill="#10141a"/>
-  <g transform="translate(-12,0)" fill="none" stroke="url(#g)" stroke-width="34" stroke-linecap="round">
-    <path d="M158 200 V352"/>
-    <path d="M158 254 C158 208 270 208 270 254 V352"/>
-    <path d="M318 208 h72"/>
-    <path d="M354 172 v72"/>
-  </g>
+  <!-- body (pear silhouette) -->
+  <path d="M256 72 C322 72 360 120 362 178 C364 224 400 268 400 318 C400 398 336 444 256 444 C176 444 112 398 112 318 C112 268 148 224 150 178 C152 120 190 72 256 72 Z" fill="#262b33"/>
+  <!-- flippers -->
+  <path d="M118 250 C100 300 104 356 126 384 C140 360 138 300 142 262 Z" fill="#1d2127"/>
+  <path d="M394 250 C412 300 408 356 386 384 C372 360 374 300 370 262 Z" fill="#1d2127"/>
+  <!-- belly -->
+  <ellipse cx="256" cy="322" rx="104" ry="96" fill="#f4f6f8"/>
+  <!-- feet -->
+  <rect x="150" y="404" width="96" height="48" rx="24" fill="url(#amber)" transform="rotate(-10 198 428)"/>
+  <rect x="266" y="404" width="96" height="48" rx="24" fill="url(#amber)" transform="rotate(10 314 428)"/>
+  <!-- eyes -->
+  <ellipse cx="225" cy="160" rx="28" ry="36" fill="#f4f6f8" transform="rotate(-7 225 160)"/>
+  <ellipse cx="287" cy="160" rx="28" ry="36" fill="#f4f6f8" transform="rotate(7 287 160)"/>
+  <circle cx="234" cy="174" r="11" fill="#10141a"/>
+  <circle cx="278" cy="174" r="11" fill="#10141a"/>
+  <!-- beak -->
+  <ellipse cx="256" cy="207" rx="45" ry="17" fill="url(#amber)"/>
+  <ellipse cx="256" cy="221" rx="27" ry="9" fill="#e0761f"/>
 </svg>
