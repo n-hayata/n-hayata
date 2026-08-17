@@ -5,7 +5,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.linkedin.com/in/%E9%9A%BC%E5%A4%AA-%E4%B8%AD%E5%B7%9D-0b193a15a/">LinkedIn</a> ·
+    <a href="https://www.linkedin.com/in/hayata-nakagawa/">LinkedIn</a> ·
     <a href="https://zenn.dev/p/triplethree">Tech Blog</a> ·
     <a href="https://333-inc.com/">333-inc.com</a> ·
     <a href="https://333-inc.tt-recruit.com/">採用情報</a>
