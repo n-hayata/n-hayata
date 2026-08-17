@@ -18,17 +18,6 @@
 - 🧭 担当領域: プロダクト開発／技術戦略／技術組織の設計／コーポレートIT
 - 🤖 職種を問わず全員がAIを使い倒す「少人数×AI前提」の組織づくりを実践中 — そのリアルは [Tech Blog](https://zenn.dev/p/triplethree) で発信しています
 
-### TRIPLEシリーズ
-
-| プロダクト | 内容 |
-| --- | --- |
-| **TRIPLE REPORT** | QSC臨店チェックと改善レポートの自動化 |
-| **TRIPLE RECRUIT / REFERRAL** | 飲食業向けの採用管理・リファラル採用 |
-| **TRIPLE ONBOARDING** | 店舗マニュアルの作成・教育運用 |
-| **TRIPLE ENGAGEMENT** | 従業員エンゲージメントサーベイ |
-
-ほかにも → [333-inc.com](https://333-inc.com/) — [自社の採用ページ](https://333-inc.tt-recruit.com/)も自社プロダクトのTRIPLE RECRUITで動いています。
-
 ### Stack
 
 <picture>
