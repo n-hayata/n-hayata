@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="中川隼太（Hayata Nakagawa）— 取締役CTO, TRIPLE THREE Inc.">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5a623"/>
+      <stop offset="0.5" stop-color="#e8590c"/>
+      <stop offset="1" stop-color="#f5a623"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-420 0; 420 0; -420 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="mono" x1="0" y1="0" x2="90" y2="70" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5a623"/>
+      <stop offset="1" stop-color="#e8590c"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="20" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+  <g font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Noto Sans JP','Yu Gothic UI','Meiryo',system-ui,-apple-system,'Segoe UI',sans-serif">
+    <text x="72" y="90" font-size="15" font-weight="600" letter-spacing="5" fill="#b45309">DIRECTOR &amp; CTO — TRIPLE THREE INC.</text>
+    <text x="70" y="170" font-size="64" font-weight="800" fill="#1f2328">中川隼太</text>
+    <text x="356" y="170" font-size="22" font-weight="500" letter-spacing="1" fill="#57606a">Hayata Nakagawa</text>
+    <text x="72" y="216" font-size="18" fill="#57606a">「外食の人財課題に本気で向き合う」— 9つのSaaSを、エンジニア4人＋デザイナー1人で。</text>
+  </g>
+  <rect x="72" y="240" width="420" height="6" rx="3" fill="url(#accent)"/>
+  <g transform="translate(1014,98) scale(1.7)" fill="none" stroke="url(#mono)" stroke-width="11" stroke-linecap="round">
+    <path d="M8 14 V62"/>
+    <path d="M8 32 C8 18 42 18 42 32 V62"/>
+    <path d="M56 16 h22"/>
+    <path d="M67 5 v22"/>
+  </g>
+</svg>
