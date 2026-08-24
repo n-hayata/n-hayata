@@ -1,27 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Hayata — Director &amp; CTO, TRIPLE THREE Inc.">
-  <defs>
-    <linearGradient id="accent" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#f5a623"/>
-      <stop offset="0.5" stop-color="#e8590c"/>
-      <stop offset="1" stop-color="#f5a623"/>
-      <animateTransform attributeName="gradientTransform" type="translate" values="-420 0; 420 0; -420 0" dur="7s" repeatCount="indefinite"/>
-    </linearGradient>
-    <linearGradient id="mono" x1="0" y1="0" x2="90" y2="70" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#f5a623"/>
-      <stop offset="1" stop-color="#e8590c"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="1198" height="298" rx="20" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-  <g font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Noto Sans JP','Yu Gothic UI','Meiryo',system-ui,-apple-system,'Segoe UI',sans-serif">
-    <text x="72" y="90" font-size="15" font-weight="600" letter-spacing="5" fill="#b45309">DIRECTOR &amp; CTO — TRIPLE THREE INC.</text>
-    <text x="70" y="172" font-size="72" font-weight="800" letter-spacing="0.5" fill="#1f2328">Hayata</text>
-    <text x="72" y="216" font-size="18" fill="#57606a">「外食の人財課題に本気で向き合う」— 外食産業のためのSaaS群を、少人数×AI前提でつくっています。</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340"
+  role="img" aria-label="Hayata — DIRECTOR &amp; CTO, TRIPLE THREE INC.. 外食産業のためのSaaS群を、少人数 × AI前提でつくっています。">
+  <defs><linearGradient id="wash0" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.9"/>
+    <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="1" stop-color="#C9BFAE" stop-opacity="0.22"/>
+  </linearGradient><filter id="grain0" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="7"/>
+    <feColorMatrix type="saturate" values="0"/>
+    <feComponentTransfer><feFuncA type="linear" slope="0.05"/></feComponentTransfer>
+  </filter></defs>
+  <rect width="1200" height="340" fill="#FAF8F4"/><rect width="1200" height="340" fill="url(#wash0)"/><rect width="1200" height="340" filter="url(#grain0)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,'Hiragino Sans','Noto Sans JP',sans-serif">
+    <text x="96"  y="106" font-size="11" font-weight="500" letter-spacing="3.4" fill="#7E766B">TRIPLE THREE INC.</text>
+    <text x="286" y="106" font-size="11" font-weight="500" letter-spacing="3.4" fill="#A78F73">DIRECTOR &amp; CTO</text>
+    <text x="96" y="196" font-family="Baskerville,'Hoefler Text','Times New Roman',Georgia,'Hiragino Mincho ProN',serif" font-size="74" letter-spacing="0.5" fill="#35322D">Hayata</text>
+    <text x="96"  y="242" font-size="14.5" letter-spacing="0.4" fill="#7E766B">外食産業のためのSaaS群を、少人数 × AI前提でつくっています。</text>
   </g>
-  <rect x="72" y="240" width="420" height="6" rx="3" fill="url(#accent)"/>
-  <g transform="translate(1014,98) scale(1.7)" fill="none" stroke="url(#mono)" stroke-width="11" stroke-linecap="round">
-    <path d="M8 14 V62"/>
-    <path d="M8 32 C8 18 42 18 42 32 V62"/>
-    <path d="M56 16 h22"/>
-    <path d="M67 5 v22"/>
+  <line x1="96" y1="284" x2="1104" y2="284" stroke="#DCD5C9" stroke-width="1"/>
+  <g font-family="Baskerville,'Hoefler Text','Times New Roman',Georgia,'Hiragino Mincho ProN',serif">
+    <text x="1078" y="176" text-anchor="end" font-size="96" fill="#35322D">n</text>
+    <text x="1084" y="134" font-size="34" fill="#A78F73">+</text>
   </g>
 </svg>
