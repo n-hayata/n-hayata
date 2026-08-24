@@ -1,0 +1,3 @@
+# プロフィールリポジトリに言語ラベルを出さない（生成スクリプトは成果物ではない）
+scripts/* linguist-detectable=false
+assets/*.svg linguist-detectable=false
