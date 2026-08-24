@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 40" role="img" aria-label="333-inc.com">
-  <text x="84" y="25" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,'Hiragino Sans','Noto Sans JP',sans-serif"
-    font-size="13" font-weight="400" letter-spacing="1.9" fill="#8F877B">333-inc.com</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136 36"
+  role="img" aria-label="333-inc.com">
+  <text x="68" y="21" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,'Hiragino Sans','Noto Sans JP',sans-serif"
+    font-size="14" letter-spacing="0.5" fill="#E9E3D8">333-inc.com</text>
+  <line x1="16" y1="29" x2="120" y2="29" stroke="#B79E80" stroke-width="1"/>
 </svg>
